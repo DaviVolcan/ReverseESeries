@@ -1,0 +1,1 @@
+Task description: create a simple esp32 project, compile it, take the binary and decompile it, and compare the original code with the reversed engeenered one.
